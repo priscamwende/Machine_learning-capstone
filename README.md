@@ -52,3 +52,5 @@ Streamlit
 * Design better loyalty programs
 * Increase customer engagement
 * Enhance customer satisfaction
+
+http://localhost:8501/
